@@ -1,0 +1,9 @@
+Gender,CustomerType,Age,TypeOfTravel,Class,FlightDistance,InflightWifiService,SeatComfort,OnboardService,DepartureDelay,ArrivalDelay,Satisfaction
+Male,Loyal Customer,45,Business travel,Business,1500,5,4,4,0,0,satisfied
+Female,Disloyal Customer,32,Personal Travel,Economy,800,3,2,3,5,10,dissatisfied
+Male,Loyal Customer,27,Business travel,Business,1200,4,4,5,2,0,satisfied
+Female,Loyal Customer,50,Personal Travel,Economy,300,2,2,2,10,15,dissatisfied
+Male,Loyal Customer,38,Business travel,Economy Plus,2200,4,3,4,0,5,satisfied
+Female,Disloyal Customer,29,Personal Travel,Economy,450,3,3,3,3,6,dissatisfied
+Male,Loyal Customer,56,Business travel,Business,1800,5,4,4,1,0,satisfied
+Female,Loyal Customer,41,Personal Travel,Economy Plus,900,2,2,3,7,12,dissatisfied
